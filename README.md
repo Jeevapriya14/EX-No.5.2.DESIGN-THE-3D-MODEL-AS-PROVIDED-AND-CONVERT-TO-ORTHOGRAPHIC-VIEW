@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![EX_5 2 JEEVAPRIYA  R 22008877 New](https://user-images.githubusercontent.com/121003043/211609628-af1663dc-80d7-4546-b0af-da9d94b26a2c.jpg)
 
 
 ## RESULT:
